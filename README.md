@@ -134,23 +134,6 @@ Through this project, the following skills were practiced:
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of your project here.
-
-### Home Page
-
-![Home Page](screenshots/homepage.png)
-
-### Interest Selection
-
-![Interest Selection](screenshots/interests.png)
-
-### Results Page
-
-![Results Page](screenshots/results.png)
-
----
 
 ## 🤝 Contributing
 
@@ -171,9 +154,9 @@ Contributions, suggestions, and improvements are welcome.
 
 B.Tech Student | Aspiring Software Developer
 
-GitHub: https://github.com/your-github-username
+GitHub: https://github.com/manusha141209
 
-LinkedIn: Add your LinkedIn profile link here
+LinkedIn:https://www.linkedin.com/in/manusha-goli-31443637b
 
 ---
 
